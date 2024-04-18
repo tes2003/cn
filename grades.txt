@@ -1,0 +1,5 @@
+Alice:90%
+Emma:50%
+Charlie:70%
+David:60%
+Bob:80%
